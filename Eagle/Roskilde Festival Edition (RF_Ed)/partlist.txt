@@ -1,0 +1,79 @@
+Partlist
+
+Exported from miniCFO-roskilde.brd at 6/17/11 1:05 AM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part           Value          Package      Library                  Position (mm)         Orientation
+
+AUDIO          PG203J         PG203J       con-hirschmann           (154.94 76.2)         R180
+BODYSWITCH_1   TPPAD1-13      P1-13        testpad                  (158.75 29.21)        R0
+BODYSWITCH_2   TPPAD1-13      P1-13        testpad                  (27.94 25.4)          R0
+BODYSWITCH_3   TPPAD1-13      P1-13        testpad                  (20.32 47.625)        R0
+BODYSWITCH_4   TPPAD1-13      P1-13        testpad                  (20.32 67.945)        R0
+BODYSWITCH_5V  TPPAD1-13      P1-13        testpad                  (28.575 40.64)        R0
+BODYSWITCH_5V1 TPPAD1-13      P1-13        testpad                  (30.48 58.42)         R0
+C1             100n           C050-035X075 rcl                      (105.41 68.58)        R90
+C2             100n           C050-035X075 rcl                      (116.84 68.58)        R270
+C3             22p            C050-024X044 rcl                      (91.44 71.12)         R0
+C4             22p            C050-024X044 rcl                      (99.06 71.12)         R180
+C5             100n           C050-035X075 rcl                      (57.785 78.74)        R90
+C6             100n           C050-035X075 rcl                      (130.175 52.07)       R270
+C7             100u           E2-5         rcl                      (63.5 78.74)          R270
+C8             100u           E2-5         rcl                      (99.06 78.74)         R270
+C9             2u2            E2-5         rcl                      (157.48 63.5)         R90
+C10            330u           E2,5-7       rcl                      (127 80.01)           R90
+C11            2u2            E2-5         rcl                      (149.86 63.5)         R90
+C12            33n            C050-024X044 rcl                      (127 73.66)           R0
+C13            47n            C050-024X044 rcl                      (127 69.85)           R180
+D1             1N4004         DO41-10      diode                    (29.845 81.28)        R180
+D3             TPPAD1-13      P1-13        testpad                  (48.26 58.42)         R0
+D4             TPPAD1-13      P1-13        testpad                  (48.26 55.88)         R0
+D9             TPPAD1-13      P1-13        testpad                  (48.26 50.8)          R0
+D12            TPPAD1-13      P1-13        testpad                  (48.26 48.26)         R0
+IC1            ATMEGA         DIL28-3      atmel                    (100.33 54.61)        R180
+IC5                           78XXL        v-reg                    (74.93 78.74)         R270
+JP1                           JP1          jumper                   (20.32 77.47)         R180
+LED1                          LED5MM       led                      (58.42 69.215)        R180
+LED2                          LED5MM       led                      (67.31 69.215)        R180
+MCP4921                       DIL08        ic-package               (139.7 50.8)          R270
+XR1             1K             0207/10      rcl                      (78.74 71.12)         R0
+XR2             1k             0207/10      rcl                      (113.03 68.58)        R90
+XR3             1k             0207/10      rcl                      (109.22 68.58)        R90
+XR4             10k            0207/10      rcl                      (127 58.42)           R0
+XR5             10k            0207/10      rcl                      (154.94 49.53)        R180
+XR6             10k            0207/10      rcl                      (154.94 45.72)        R180
+XR7             10k            0207/10      rcl                      (62.23 50.8)          R270
+XR8             10k            0207/10      rcl                      (58.42 50.8)          R270
+XR9             10k            0207/10      rcl                      (54.61 50.8)          R270
+R10            330K           0207/10      rcl                      (148.59 58.42)        R180
+XR11            10K            0207/10      rcl                      (127 62.23)           R0
+R12            10             0207/10      rcl                      (127 66.04)           R0
+R14                           P120PK       videomusik               (45.72 66.04)         R0
+XR15            1K             0207/10      rcl                      (78.74 67.31)         R0
+R16            EVLHFA         EVLHFA       videomusik               (139.7 73.66)         R0
+R20            220            0207/10      rcl                      (33.655 46.355)       R270
+R21            220            0207/10      rcl                      (43.18 39.37)         R162.4
+R23            220            0207/10      rcl                      (50.165 39.37)        R162.2
+R24            220            0207/10      rcl                      (59.055 39.37)        R163.7
+R25            220            0207/10      rcl                      (66.675 39.37)        R163.5
+R26            220            0207/10      rcl                      (74.93 39.37)         R163.5
+R27            220            0207/10      rcl                      (82.55 39.37)         R163.5
+R28            220            0207/10      rcl                      (90.17 39.37)         R163.5
+R29            220            0207/10      rcl                      (97.155 39.37)        R163.5
+R30            220            0207/10      rcl                      (105.41 39.37)        R163.5
+R31            220            0207/10      rcl                      (113.03 39.37)        R163.5
+R32            220            0207/10      rcl                      (120.015 39.37)       R163.5
+R33            220            0207/10      rcl                      (127 39.37)           R163.5
+R34            220            0207/10      rcl                      (133.985 39.37)       R163.5
+R35            220            0207/10      rcl                      (140.97 39.37)        R163.5
+R36            220            0207/10      rcl                      (147.955 39.37)       R163.5
+S1                            GF-126-0159  videomusik               (58.42 61.595)        R180
+S2             DT6            DT6          switch-misc              (73.66 58.42)         R90
+STYLO          TPPAD1-13      P1-13        testpad                  (154.94 53.34)        R0
+TP1            TPPAD1-13      P1-13        testpad                  (78.105 25.4)         R0
+TP2            TPPAD1-13      P1-13        testpad                  (116.205 25.4)        R0
+TP3            TPPAD1-13      P1-13        testpad                  (128.905 25.4)        R0
+U$1            LM386          LM386        blushingboy_experimental (140.97 59.69)        R90
+USB-TTL                       1X06         pinhead                  (110.49 78.74)        R180
+XTAL           16mhz          QS           special                  (95.25 66.04)         R180
