@@ -330,7 +330,7 @@ void stylophoneInput () {
   //sprintf(feedback, "styloRead: %d", styloRead);
   if (styloRead > styloNoise) {
     styloPlayed = true;
-    gain = 255;
+    //gain = 255;
     
     //sprintf(printMsg, "stylophone: %4d", styloRead);
     //printLCD (printMsg,0);    
