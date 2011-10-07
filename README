@@ -4,7 +4,7 @@ more info: http://8bitklubben.dk/project/CFO/2011/06/minicfo-at-roskilde-festiva
 ===========================================================================
 in this repository you will find Arduino code to program the miniCFO synth (Arduino folder) and CAD files for the hardware design (Eagle folder). At the time being the version of the hardware design is the one made for a synthesizer workshop at Roskilde Festival 2011. A more generic design will be uploaded shortly.
 
-sound code + hardware design in this project is based on the original CFO by Jacob Remin (https://github.com/jsr606/CFO) which is again based on the arduino synthesizer kit by critter and guittari (http://www.critterandguitari.com/content/arduino-synthesizer-kit)
+sound code + hardware design in this project is based on the original CFO by Jacob Sikker Remin (https://github.com/jsr606/CFO) which is again based on the arduino synthesizer kit by critter and guittari (http://www.critterandguitari.com/content/arduino-synthesizer-kit)
 
 PLEASE NOTE:
 this is a work in progress: we encourage you to optimize/modify the hardware design and tweak the code! 
